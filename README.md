@@ -1,2 +1,2 @@
-# cornnethompage
-옥수수네트워크 서버 공식 홈페이지 피드백용 
+# 설명
+[옥수수네트워크](https://cronnet.lubizstudio.com) 홈페이지 피드백용
